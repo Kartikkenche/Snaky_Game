@@ -1,4 +1,3 @@
-Here’s an attractive README template for your recent Snaky game:
 
 ---
 
@@ -60,5 +59,3 @@ Play the game directly [here](link-to-live-demo).
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Let me know if you’d like to customize it further!
